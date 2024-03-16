@@ -52,11 +52,16 @@ Here is the video of it:
 https://github.com/Shebo280/news_player/assets/140072066/81b9c724-2415-44fd-8b06-5966847955bc
 
 
+https://github.com/Shebo280/news_player/assets/140072066/3845062c-f4b5-40f0-8938-620cc83dce39
+
+
+
 Here are some screenshots to give you a glimpse of the News App:
 
 <div align="center">
-  <img src="screenshots/screenshot-1.png" alt="Screenshot 1" width="250">
-  <img src="screenshots/screenshot-2.png" alt="Screenshot 2" width="250">
+![Screenshot-2](https://github.com/Shebo280/news_player/assets/140072066/db54a83a-0948-4a7d-9ca0-8c4a134988a8)
+![Screenshot-1](https://github.com/Shebo280/news_player/assets/140072066/64ff557b-273c-4369-b1e1-f62eb4a0a61c)
+
 </div>
 
 ### Contributing
