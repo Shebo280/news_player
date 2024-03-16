@@ -12,7 +12,7 @@ The News App is a Flutter project designed to keep users informed with the lates
 
 - **Browse**: Access the latest news articles from multiple sources.
 - **Filter**: Narrow down your news feed by category.
-- - **Error Handling**: The app includes robust error handling mechanisms. If there are issues with the API or any other problem arises during data fetching, the app displays appropriate error messages to notify the user.
+- **Error Handling**: The app includes robust error handling mechanisms. If there are issues with the API or any other problem arises during data fetching, the app displays appropriate error messages to notify the user.
 - **Loading Indicator**: While fetching data from the API, a progress indicator is displayed to indicate that the app is retrieving information.
 ### Installation
 
