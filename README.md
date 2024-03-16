@@ -46,7 +46,7 @@ To get started with the News App, follow these simple steps:
 
 The News App relies on a modern news API to fetch its content. For detailed information on how to use the API, please refer to the [API documentation](https://newsapi.org/).
 
-###Video
+### Video
 
 Here is the video of it:
 <br>
