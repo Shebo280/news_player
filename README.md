@@ -12,10 +12,8 @@ The News App is a Flutter project designed to keep users informed with the lates
 
 - **Browse**: Access the latest news articles from multiple sources.
 - **Filter**: Narrow down your news feed by category.
-- **Read**: Dive into full articles directly within the app.
-- **Bookmark**: Save your favorite articles for later reading.
-- **Share**: Share interesting articles with friends and family seamlessly.
-
+- - **Error Handling**: The app includes robust error handling mechanisms. If there are issues with the API or any other problem arises during data fetching, the app displays appropriate error messages to notify the user.
+- **Loading Indicator**: While fetching data from the API, a progress indicator is displayed to indicate that the app is retrieving information.
 ### Installation
 
 To get started with the News App, follow these simple steps:
@@ -48,19 +46,20 @@ To get started with the News App, follow these simple steps:
 
 The News App relies on a modern news API to fetch its content. For detailed information on how to use the API, please refer to the [API documentation](https://newsapi.org/).
 
-### Screenshots
+### Screenshots and Videos
+
+Here is the video of it:
+https://github.com/Shebo280/news_player/assets/140072066/81b9c724-2415-44fd-8b06-5966847955bc
+
 
 Here are some screenshots to give you a glimpse of the News App:
 
 <div align="center">
-  <img src="screenshots/screenshot1.png" alt="Screenshot 1" width="250">
-  <img src="screenshots/screenshot2.png" alt="Screenshot 2" width="250">
+  <img src="screenshots/screenshot-1.png" alt="Screenshot 1" width="250">
+  <img src="screenshots/screenshot-2.png" alt="Screenshot 2" width="250">
 </div>
 
 ### Contributing
 
 Contributions are highly appreciated! If you'd like to contribute to the News App project, please feel free to open an issue or submit a pull request.
 
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
