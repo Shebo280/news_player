@@ -46,23 +46,13 @@ To get started with the News App, follow these simple steps:
 
 The News App relies on a modern news API to fetch its content. For detailed information on how to use the API, please refer to the [API documentation](https://newsapi.org/).
 
-### Screenshots and Videos
+###Video
 
 Here is the video of it:
 <br>
 
 https://github.com/Shebo280/news_player/assets/140072066/3845062c-f4b5-40f0-8938-620cc83dce39
 
-
-
-Here are some screenshots to give you a glimpse of the News App:
-
-<div align="center">
-    <br>
-![Screenshot-1](https://github.com/Shebo280/news_player/assets/140072066/004d4475-f2bd-44a7-815b-8c514805964a)
-    <br>
-
-</div>
 
 ### Contributing
 
