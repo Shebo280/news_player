@@ -49,8 +49,7 @@ The News App relies on a modern news API to fetch its content. For detailed info
 ### Screenshots and Videos
 
 Here is the video of it:
-https://github.com/Shebo280/news_player/assets/140072066/81b9c724-2415-44fd-8b06-5966847955bc
-
+<br>
 
 https://github.com/Shebo280/news_player/assets/140072066/3845062c-f4b5-40f0-8938-620cc83dce39
 
@@ -59,8 +58,9 @@ https://github.com/Shebo280/news_player/assets/140072066/3845062c-f4b5-40f0-8938
 Here are some screenshots to give you a glimpse of the News App:
 
 <div align="center">
-![Screenshot-2](https://github.com/Shebo280/news_player/assets/140072066/db54a83a-0948-4a7d-9ca0-8c4a134988a8)
-![Screenshot-1](https://github.com/Shebo280/news_player/assets/140072066/64ff557b-273c-4369-b1e1-f62eb4a0a61c)
+    <br>
+![Screenshot-1](https://github.com/Shebo280/news_player/assets/140072066/004d4475-f2bd-44a7-815b-8c514805964a)
+    <br>
 
 </div>
 
